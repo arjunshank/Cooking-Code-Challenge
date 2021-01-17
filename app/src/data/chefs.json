@@ -1,0 +1,924 @@
+{
+  "chefs": [
+    {
+      "_id": "5e21edb7e81ae7ec8cf1a24e",
+      "firstName": "Fisher",
+      "lastName": "Dyer",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 62
+        },
+        {
+          "type": "Pizza",
+          "rating": 26
+        },
+        {
+          "type": "Cake",
+          "rating": 64
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 26
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb77472aaca873e7563",
+      "firstName": "Rosario",
+      "lastName": "Le",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 89
+        },
+        {
+          "type": "Pizza",
+          "rating": 22
+        },
+        {
+          "type": "Cake",
+          "rating": 57
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 83
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7b4f940fc35029b45",
+      "firstName": "Humphrey",
+      "lastName": "Mcgowan",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 51
+        },
+        {
+          "type": "Pizza",
+          "rating": 28
+        },
+        {
+          "type": "Cake",
+          "rating": 100
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 67
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb75a0f650b4d948b9d",
+      "firstName": "Alma",
+      "lastName": "Perez",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 87
+        },
+        {
+          "type": "Pizza",
+          "rating": 85
+        },
+        {
+          "type": "Cake",
+          "rating": 98
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 48
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb74ce5ea6997a96b2a",
+      "firstName": "Mckenzie",
+      "lastName": "Jimenez",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 73
+        },
+        {
+          "type": "Pizza",
+          "rating": 47
+        },
+        {
+          "type": "Cake",
+          "rating": 74
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 44
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7c4209301eb3244e6",
+      "firstName": "Katy",
+      "lastName": "Nielsen",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 65
+        },
+        {
+          "type": "Pizza",
+          "rating": 36
+        },
+        {
+          "type": "Cake",
+          "rating": 52
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 38
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7d490d43bed33e44c",
+      "firstName": "Gentry",
+      "lastName": "Ochoa",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 68
+        },
+        {
+          "type": "Pizza",
+          "rating": 59
+        },
+        {
+          "type": "Cake",
+          "rating": 99
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 42
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7cd4b53f426a5200c",
+      "firstName": "Kellie",
+      "lastName": "Gross",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 25
+        },
+        {
+          "type": "Pizza",
+          "rating": 36
+        },
+        {
+          "type": "Cake",
+          "rating": 46
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 57
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7ad97504cb897dec9",
+      "firstName": "Mcfarland",
+      "lastName": "Robinson",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 50
+        },
+        {
+          "type": "Pizza",
+          "rating": 83
+        },
+        {
+          "type": "Cake",
+          "rating": 87
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 66
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7d63ffb721f8347ba",
+      "firstName": "Mckay",
+      "lastName": "Pena",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 48
+        },
+        {
+          "type": "Pizza",
+          "rating": 43
+        },
+        {
+          "type": "Cake",
+          "rating": 74
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 32
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb78f25e56ac3e166cb",
+      "firstName": "Lana",
+      "lastName": "Patton",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 51
+        },
+        {
+          "type": "Pizza",
+          "rating": 79
+        },
+        {
+          "type": "Cake",
+          "rating": 38
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 88
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb72d8bdc8740398315",
+      "firstName": "Casey",
+      "lastName": "Solis",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 82
+        },
+        {
+          "type": "Pizza",
+          "rating": 87
+        },
+        {
+          "type": "Cake",
+          "rating": 95
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 58
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7b73e8cf6004e556b",
+      "firstName": "Odonnell",
+      "lastName": "Gallagher",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 44
+        },
+        {
+          "type": "Pizza",
+          "rating": 77
+        },
+        {
+          "type": "Cake",
+          "rating": 20
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7d68f049de9df06e5",
+      "firstName": "Hernandez",
+      "lastName": "Tyson",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 62
+        },
+        {
+          "type": "Pizza",
+          "rating": 86
+        },
+        {
+          "type": "Cake",
+          "rating": 43
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 22
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb70717382545684bb4",
+      "firstName": "Lowe",
+      "lastName": "Flores",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 76
+        },
+        {
+          "type": "Pizza",
+          "rating": 29
+        },
+        {
+          "type": "Cake",
+          "rating": 53
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 97
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb72535bb0033666fe6",
+      "firstName": "Cherry",
+      "lastName": "Booker",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 20
+        },
+        {
+          "type": "Pizza",
+          "rating": 25
+        },
+        {
+          "type": "Cake",
+          "rating": 29
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 56
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb70bc90b2703744ccd",
+      "firstName": "Lambert",
+      "lastName": "Oneil",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 48
+        },
+        {
+          "type": "Pizza",
+          "rating": 70
+        },
+        {
+          "type": "Cake",
+          "rating": 46
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 29
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb71132dd5012a94b9f",
+      "firstName": "James",
+      "lastName": "Slater",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 45
+        },
+        {
+          "type": "Pizza",
+          "rating": 25
+        },
+        {
+          "type": "Cake",
+          "rating": 66
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 96
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7880a12e1dd53f39c",
+      "firstName": "Hannah",
+      "lastName": "Bryan",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 87
+        },
+        {
+          "type": "Pizza",
+          "rating": 71
+        },
+        {
+          "type": "Cake",
+          "rating": 76
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 69
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7f032505222a98a07",
+      "firstName": "Love",
+      "lastName": "Hurst",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 31
+        },
+        {
+          "type": "Pizza",
+          "rating": 93
+        },
+        {
+          "type": "Cake",
+          "rating": 90
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 67
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb786216f1b001c5229",
+      "firstName": "Serrano",
+      "lastName": "Martin",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 41
+        },
+        {
+          "type": "Pizza",
+          "rating": 85
+        },
+        {
+          "type": "Cake",
+          "rating": 63
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 30
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb72358e7ae64654fde",
+      "firstName": "Sharon",
+      "lastName": "Black",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 51
+        },
+        {
+          "type": "Pizza",
+          "rating": 36
+        },
+        {
+          "type": "Cake",
+          "rating": 36
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 71
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb70c40e6ebc63b8753",
+      "firstName": "Oliver",
+      "lastName": "Blanchard",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 85
+        },
+        {
+          "type": "Pizza",
+          "rating": 23
+        },
+        {
+          "type": "Cake",
+          "rating": 77
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 43
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7ee6d09cd64701ee6",
+      "firstName": "Edna",
+      "lastName": "Jacobson",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 34
+        },
+        {
+          "type": "Pizza",
+          "rating": 25
+        },
+        {
+          "type": "Cake",
+          "rating": 33
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 84
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb711f80b47ed80bab7",
+      "firstName": "Nash",
+      "lastName": "Jackson",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 76
+        },
+        {
+          "type": "Pizza",
+          "rating": 32
+        },
+        {
+          "type": "Cake",
+          "rating": 94
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 39
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7a0989b12b48b2663",
+      "firstName": "Vega",
+      "lastName": "Roach",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 27
+        },
+        {
+          "type": "Pizza",
+          "rating": 35
+        },
+        {
+          "type": "Cake",
+          "rating": 88
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 60
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7f51ff26b34a8ee49",
+      "firstName": "Rhea",
+      "lastName": "Randall",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 90
+        },
+        {
+          "type": "Pizza",
+          "rating": 46
+        },
+        {
+          "type": "Cake",
+          "rating": 100
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 28
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb71a7f2a75abaedd54",
+      "firstName": "Lourdes",
+      "lastName": "Morrison",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 78
+        },
+        {
+          "type": "Pizza",
+          "rating": 32
+        },
+        {
+          "type": "Cake",
+          "rating": 60
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 56
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7a86ac016b1b650d7",
+      "firstName": "Dolly",
+      "lastName": "Hall",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 96
+        },
+        {
+          "type": "Pizza",
+          "rating": 85
+        },
+        {
+          "type": "Cake",
+          "rating": 41
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 69
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb754009b8e0aa8c47a",
+      "firstName": "Loretta",
+      "lastName": "Bender",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 27
+        },
+        {
+          "type": "Pizza",
+          "rating": 49
+        },
+        {
+          "type": "Cake",
+          "rating": 67
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 60
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7bb4ef59f421e3a40",
+      "firstName": "Alston",
+      "lastName": "Holt",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 66
+        },
+        {
+          "type": "Pizza",
+          "rating": 69
+        },
+        {
+          "type": "Cake",
+          "rating": 94
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 83
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb71c651bf4dec74f79",
+      "firstName": "Curry",
+      "lastName": "Chambers",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 70
+        },
+        {
+          "type": "Pizza",
+          "rating": 94
+        },
+        {
+          "type": "Cake",
+          "rating": 76
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 94
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7b3ede27374db2301",
+      "firstName": "Bobbi",
+      "lastName": "Watts",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 80
+        },
+        {
+          "type": "Pizza",
+          "rating": 36
+        },
+        {
+          "type": "Cake",
+          "rating": 36
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 36
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb706bde81548771add",
+      "firstName": "Lolita",
+      "lastName": "Warren",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 29
+        },
+        {
+          "type": "Pizza",
+          "rating": 100
+        },
+        {
+          "type": "Cake",
+          "rating": 64
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 62
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb751ac3ba81c45b2cf",
+      "firstName": "Riddle",
+      "lastName": "Frye",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 46
+        },
+        {
+          "type": "Pizza",
+          "rating": 25
+        },
+        {
+          "type": "Cake",
+          "rating": 39
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 47
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb73b2f6a9080e409c6",
+      "firstName": "Frank",
+      "lastName": "Mcintyre",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 82
+        },
+        {
+          "type": "Pizza",
+          "rating": 33
+        },
+        {
+          "type": "Cake",
+          "rating": 24
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 24
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7528a8439e93fce93",
+      "firstName": "Mavis",
+      "lastName": "Pittman",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 31
+        },
+        {
+          "type": "Pizza",
+          "rating": 23
+        },
+        {
+          "type": "Cake",
+          "rating": 65
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 95
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb78ca403f3703a0bd0",
+      "firstName": "Vargas",
+      "lastName": "Cain",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 22
+        },
+        {
+          "type": "Pizza",
+          "rating": 38
+        },
+        {
+          "type": "Cake",
+          "rating": 55
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 70
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7e37a92ef56148ca4",
+      "firstName": "Hobbs",
+      "lastName": "Maxwell",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 99
+        },
+        {
+          "type": "Pizza",
+          "rating": 90
+        },
+        {
+          "type": "Cake",
+          "rating": 97
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 65
+        }
+      ]
+    },
+    {
+      "_id": "5e21edb7fabb5ef3d2e2be4a",
+      "firstName": "Madelyn",
+      "lastName": "Mathews",
+      "abilities": [
+        {
+          "type": "Risotto",
+          "rating": 20
+        },
+        {
+          "type": "Pizza",
+          "rating": 54
+        },
+        {
+          "type": "Cake",
+          "rating": 72
+        },
+        {
+          "type": "Baked Potato",
+          "rating": 72
+        }
+      ]
+    }
+  ]
+}
